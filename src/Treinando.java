@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Treinando {
+public interface Treinando {
+  String training(String result);
 }
